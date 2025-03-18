@@ -2,7 +2,7 @@
 
 This project is the best project you've ever seen. It does many things that may be useful or completely useless.
 
-##Features
+## Features
 
 - Sometimes works
 
