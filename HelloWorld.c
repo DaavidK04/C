@@ -60,5 +60,15 @@ int main(){
     printf("item 1: $%4.2f\n", item1);
     printf("item 2: $%4.2f\n", item2);
     printf("item 3: $%10.2f\n", item3);
+
+    //KONSTANTEN
+    const float PI = 3.14159; //kann jetzt nicht mehr geändert werden
+
+    //es gibt plus minus mal geteilt modulo inkrement und dekrement wie in java halt
+
+    int z = 12;
+    int hh = 5;
+    int zahl = z / hh; //kein komma is ja klar
+    float kommazahl = z / hh;
     return 0;
 }
