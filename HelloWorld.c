@@ -70,6 +70,6 @@ int main(){
     int hh = 5;
     int zahl = z / hh; //kein komma is ja klar
     float kommazahl = z / hh;
-    printf(hh);
+    printf("inteher %d", hh);
     return 0;
 }
